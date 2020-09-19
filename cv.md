@@ -190,8 +190,8 @@ And I solve many katas:
 I have few certificates:
 
 - [RSSchool](https://app.rs.school/certificate/n4knovsx)
-- [Python](https://stepik.org/course/67)
 - [git](https://stepik.org/cert/229740)
+- [Python](https://stepik.org/course/67)
 
 I have graduated with distinctions from Belarusian National Technical University, power supply specialize, and now study at International Institute of Distance Education, automatization specialize like masters.
 
