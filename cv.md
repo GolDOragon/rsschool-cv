@@ -1,6 +1,6 @@
 ## Who am I?
 
-Alexei Palanevich
+Aliaksei Palanevich
 
 ## My contacts:
 
